@@ -23,4 +23,3 @@ This Terraform module creates a very simple and oppinionated MariaDB AWS RDS ins
 |address|MariaDB address to connect to.|
 |password|see inputs.|
 |username|see inputs.|
-# terraform-aws-mariadb
